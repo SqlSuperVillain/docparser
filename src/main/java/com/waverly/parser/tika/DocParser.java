@@ -1,5 +1,7 @@
 package com.waverly.parser.tika;
 
+//test some stuff this is really not important 
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -107,11 +109,11 @@ public class DocParser {
 
         }
 
-        //} else {
+        } else {
 
-        //System.out.println("you must specify an input directory or file and you must specify an output directory");
+        System.out.println("you must specify an input directory or file and you must specify an output directory");
 
-        //}
+        }
 
     }
 }
